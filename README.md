@@ -1,4 +1,4 @@
-**UNES University Website - README**
+**UNES University Website**
 ====================================
 
 **1\. Project Overview**
